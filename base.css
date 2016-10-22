@@ -1,0 +1,21 @@
+/* base.css
+ * Base stylesheet for all pages
+ * Credits for several ideas: Russ Allbery <eagle@eyrie.org>
+ */
+
+/* Navigation bar */
+table.navbar {
+    font-size: small;
+    background: whitesmoke;
+    text-align: center;
+    width: 100%;
+    clear: both;
+    margin-left: 0;
+}
+
+td.navleft { text-align: left; width: 25% }
+td.navright { text-align: right; width: 25% }
+
+h1 {
+    text-align: center;
+}
