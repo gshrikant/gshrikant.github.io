@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shrikant Giridhar</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Shrikant Giridhar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://example.org/projects/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/</guid>
+      <description>  Breakout: A weekend experiment with frontend web development.
+  Calculator: Another incomplete attempt at web development.
+  </description>
+    </item>
+    
+    <item>
+      <title>Welcome (back)!</title>
+      <link>http://example.org/posts/welcome/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/welcome/</guid>
+      <description>I&amp;rsquo;ve lost count of the number of times I&amp;rsquo;ve redone my website over the years not to mention the number of times I&amp;rsquo;ve switched between blogging and static website hosting platforms. Hopefully, this iteration can hang around for a while before I inevitably scrap it in favour of something else. Welcome back!</description>
+    </item>
+    
+    <item>
+      <title>Reading List</title>
+      <link>http://example.org/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/reading/</guid>
+      <description>2021  The Last Wish - Andrej Sapkowski Going Postal - Terry Pratchett  2020  The Black Company - Glen Cook  2019  Rocket Men - Robert Kurson  2018  Bad Blood - John Carreyrou The Three Body Problem - Cixin Liu The Emperor of All Maladies - Siddhartha Mukherjee Small Gods - Terry Pratchett  2016  Being Mortal - Atul Gawande  2015  Hiroshima - John Hershey The Man Who Knew Infinity - Robert Kanigel The Martian - Andy Weir  </description>
+    </item>
+    
+  </channel>
+</rss>
