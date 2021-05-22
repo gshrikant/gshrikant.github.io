@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Journal on Shrikant Giridhar</title>
-    <link>http://gshrikant.github.io/blog/</link>
+    <link>https://gshrikant.github.io/blog/</link>
     <description>Recent content in Journal on Shrikant Giridhar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021, Shrikant Giridhar.</copyright>
-    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://gshrikant.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gshrikant.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome (back)!</title>
-      <link>http://gshrikant.github.io/welcome-back/</link>
+      <link>https://gshrikant.github.io/welcome-back/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://gshrikant.github.io/welcome-back/</guid>
+      <guid>https://gshrikant.github.io/welcome-back/</guid>
       <description>I&amp;rsquo;ve lost count of the number of times I&amp;rsquo;ve redone my website over the years not to mention the number of times I&amp;rsquo;ve switched between blogging and static website hosting platforms. Hopefully, this iteration can hang around for a while before I inevitably scrap it in favour of something else. Welcome back!</description>
     </item>
     

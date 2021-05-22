@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: http://gshrikant.github.io/sitemap.xml
+Sitemap: https://gshrikant.github.io/sitemap.xml
