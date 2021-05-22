@@ -6,6 +6,7 @@
     <description>Recent content on Shrikant Giridhar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright © 2021, Shrikant Giridhar.</copyright>
     <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://gshrikant.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
@@ -13,17 +14,17 @@
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
       <guid>http://gshrikant.github.io/projects/</guid>
-      <description>  Breakout: A weekend experiment with frontend web development.
+      <description>Projects   Breakout: A weekend experiment with frontend web development.
   Calculator: Another incomplete attempt at web development.
   </description>
     </item>
     
     <item>
       <title>Welcome (back)!</title>
-      <link>http://gshrikant.github.io/posts/welcome/</link>
+      <link>http://gshrikant.github.io/welcome-back/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://gshrikant.github.io/posts/welcome/</guid>
+      <guid>http://gshrikant.github.io/welcome-back/</guid>
       <description>I&amp;rsquo;ve lost count of the number of times I&amp;rsquo;ve redone my website over the years not to mention the number of times I&amp;rsquo;ve switched between blogging and static website hosting platforms. Hopefully, this iteration can hang around for a while before I inevitably scrap it in favour of something else. Welcome back!</description>
     </item>
     
