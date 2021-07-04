@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>debugging on Shrikant Giridhar</title>
+    <link>https://gshrikant.github.io/blog/debugging/</link>
+    <description>Recent content in debugging on Shrikant Giridhar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2021, Shrikant Giridhar.</copyright>
+    <lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gshrikant.github.io/blog/debugging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debugging USB with TinyFPGA BX</title>
+      <link>https://gshrikant.github.io/debugging-usb-with-tinyfpga-bx/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gshrikant.github.io/debugging-usb-with-tinyfpga-bx/</guid>
+      <description>I wanted to write a note on a quick debug session to get my TinyFPGA BX board working with my T450s running Debian Sid (unstable). The board doesn&amp;rsquo;t come with a separate USB controller (typically a FTDI chip or a microcontroller running a USB stack). Instead it loads a bootloader design from its QSPI flash which then presents a CDC class USB device to the host computer which shows up as a /dev/ttyACMn device.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021, Shrikant Giridhar.</copyright>
-    <lastBuildDate>Tue, 08 Jun 2021 23:14:00 -0700</lastBuildDate><atom:link href="https://gshrikant.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gshrikant.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debugging USB with TinyFPGA BX</title>
+      <link>https://gshrikant.github.io/debugging-usb-with-tinyfpga-bx/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gshrikant.github.io/debugging-usb-with-tinyfpga-bx/</guid>
+      <description>I wanted to write a note on a quick debug session to get my TinyFPGA BX board working with my T450s running Debian Sid (unstable). The board doesn&amp;rsquo;t come with a separate USB controller (typically a FTDI chip or a microcontroller running a USB stack). Instead it loads a bootloader design from its QSPI flash which then presents a CDC class USB device to the host computer which shows up as a /dev/ttyACMn device.</description>
+    </item>
+    
     <item>
       <title>Session Notes: The Lost Mine</title>
       <link>https://gshrikant.github.io/session-notes-the-lost-mine/</link>
@@ -17,16 +26,6 @@
       <description>Party  Gregory. Human Cleric (Life) Aaravas. Half Elf. Paladin (Oath of the Ancients) Pio. Half Elf. Rogue (Arcane Trickster)  Summary Date: 23 May 2021
 It was one of our longer sessions (3 hours) and a few interesting events happened.
 Last session the party had arrived in Phandalin back from a daring stealth rescue mission. They had managed to infiltrate the Cragmaw tribe&amp;rsquo;s stronghold deep in the treacherous Neverwinter Wood and take out their leader, King Grol, while rescuing their friend Gundren Rockseeker.</description>
-    </item>
-    
-    <item>
-      <title>Welcome (back)!</title>
-      <link>https://gshrikant.github.io/welcome-back/</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gshrikant.github.io/welcome-back/</guid>
-      <description>I&amp;rsquo;ve lost count of the number of times I&amp;rsquo;ve redone my website over the years. This does not include the number of times I&amp;rsquo;ve switched between different blogging platforms and static website hosts. Hopefully, this iteration will last for a bit before I inevitably scrap it in favour of something else.
-Welcome back!</description>
     </item>
     
   </channel>
