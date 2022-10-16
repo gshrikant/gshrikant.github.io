@@ -3,8 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gshrikant.github.io/</loc>
-    <lastmod>2021-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-16T14:09:53-04:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://gshrikant.github.io/blog/</loc>
+    <lastmod>2022-10-16T14:09:53-04:00</lastmod>
+  </url><url>
+    <loc>https://gshrikant.github.io/blog/osr/</loc>
+    <lastmod>2022-10-16T14:09:53-04:00</lastmod>
+  </url><url>
+    <loc>https://gshrikant.github.io/reading-b/x/</loc>
+    <lastmod>2022-10-16T14:09:53-04:00</lastmod>
+  </url><url>
+    <loc>https://gshrikant.github.io/blog/rpg/</loc>
+    <lastmod>2022-10-16T14:09:53-04:00</lastmod>
   </url><url>
     <loc>https://gshrikant.github.io/blog/debugging/</loc>
     <lastmod>2021-07-04T00:00:00+00:00</lastmod>
@@ -12,14 +24,8 @@
     <loc>https://gshrikant.github.io/debugging-usb-with-tinyfpga-bx/</loc>
     <lastmod>2021-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gshrikant.github.io/blog/</loc>
-    <lastmod>2021-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gshrikant.github.io/blog/rpg/</loc>
-    <lastmod>2021-06-08T23:14:00-07:00</lastmod>
-  </url><url>
-    <loc>https://gshrikant.github.io/session-notes-the-lost-mine/</loc>
-    <lastmod>2021-06-08T23:14:00-07:00</lastmod>
+    <loc>https://gshrikant.github.io/session-notes-the-lost-mine-of-the-mountain-king/</loc>
+    <lastmod>2021-05-23T18:38:21-07:00</lastmod>
   </url><url>
     <loc>https://gshrikant.github.io/welcome-back/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>

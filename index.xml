@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021, Shrikant Giridhar.</copyright>
-    <lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gshrikant.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2022 14:09:53 -0400</lastBuildDate><atom:link href="https://gshrikant.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading B/X</title>
+      <link>https://gshrikant.github.io/reading-b/x/</link>
+      <pubDate>Sun, 16 Oct 2022 14:09:53 -0400</pubDate>
+      
+      <guid>https://gshrikant.github.io/reading-b/x/</guid>
+      <description>I&amp;rsquo;ve been doing a deep-dive into the D&amp;amp;D Moldvay Basic rules in an attempt to learn an old-school fantasy roleplaying ruleset. While my eventual goal is to start a campaign set in a Dying Earth inspired world of my own I&amp;rsquo;ve decided to start small and focus on learning to run a good dungeon-crawl.
+I&amp;rsquo;m a late-comer to the world of roleplaying games (RPGs) having started with Call of Cthulhu in the December of 2019.</description>
+    </item>
+    
     <item>
       <title>Debugging USB with TinyFPGA BX</title>
       <link>https://gshrikant.github.io/debugging-usb-with-tinyfpga-bx/</link>
@@ -18,14 +28,13 @@
     </item>
     
     <item>
-      <title>Session Notes: The Lost Mine</title>
-      <link>https://gshrikant.github.io/session-notes-the-lost-mine/</link>
-      <pubDate>Tue, 08 Jun 2021 23:14:00 -0700</pubDate>
+      <title>Session Notes: The Lost Mine of the Mountain King</title>
+      <link>https://gshrikant.github.io/session-notes-the-lost-mine-of-the-mountain-king/</link>
+      <pubDate>Sun, 23 May 2021 18:38:21 -0700</pubDate>
       
-      <guid>https://gshrikant.github.io/session-notes-the-lost-mine/</guid>
-      <description>Party  Gregory. Human Cleric (Life) Aaravas. Half Elf. Paladin (Oath of the Ancients) Pio. Half Elf. Rogue (Arcane Trickster)  Summary Date: 23 May 2021
-It was one of our longer sessions (3 hours) and a few interesting events happened.
-Last session the party had arrived in Phandalin back from a daring stealth rescue mission. They had managed to infiltrate the Cragmaw tribe&amp;rsquo;s stronghold deep in the treacherous Neverwinter Wood and take out their leader, King Grol, while rescuing their friend Gundren Rockseeker.</description>
+      <guid>https://gshrikant.github.io/session-notes-the-lost-mine-of-the-mountain-king/</guid>
+      <description>Party Gregory, human Cleric (3) Aaravas, half elf Paladin (3) Pio, half elf Rogue (3) Summary It was one of our longer sessions (3 hours) and a few interesting events happened.
+Last session the party had arrived Phandalin back from a daring stealth rescue mission. They had managed to infiltrate the Cragmaw tribe&amp;rsquo;s stronghold deep in the treacherous Neverwinter Wood and take out their leader, King Grol, while rescuing their friend, Gundren Rockseeker.</description>
     </item>
     
     <item>
@@ -34,8 +43,7 @@ Last session the party had arrived in Phandalin back from a daring stealth rescu
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://gshrikant.github.io/welcome-back/</guid>
-      <description>I have lost count of the number of times I&amp;rsquo;ve created a blog or a personal website of some kind over the years. While the last revision of this website did feature a journal, it has been a while since I&amp;rsquo;ve written regularly. I hope to fix that with this iteration. If you&amp;rsquo;re a returning reader, welcome back!
-The purpose of this blog, above all else, is to serve as a long-term memory for myself.</description>
+      <description>I&amp;rsquo;ve lost count of the number of times I&amp;rsquo;ve redone my website over the years not to mention the number of times I&amp;rsquo;ve switched between blogging and static website hosting platforms. Hopefully, this iteration can hang around for a while before I inevitably scrap it in favour of something else. Welcome back!</description>
     </item>
     
     <item>
@@ -44,7 +52,8 @@ The purpose of this blog, above all else, is to serve as a long-term memory for 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gshrikant.github.io/reading/</guid>
-      <description>2021  Swords against Death (Fafhrd and Gray Mouser #2) - Fritz Leiber The Last Wish - Andrej Sapkowski Going Postal - Terry Pratchett  2020  The Black Company - Glen Cook  2019  Rocket Men - Robert Kurson  2018  Bad Blood - John Carreyrou The Three Body Problem - Cixin Liu The Emperor of All Maladies - Siddhartha Mukherjee Small Gods - Terry Pratchett  2016  Being Mortal - Atul Gawande  2015  Hiroshima - John Hershey The Man Who Knew Infinity - Robert Kanigel The Martian - Andy Weir  </description>
+      <description>Books I&amp;rsquo;ve read.
+Title Author(s) Read Summary Hiroshima John Hershey 2015 - The Man Who Knew Infinity Robert Kanigel 2015 - The Martian Andy Weir 2015 - Being Mortal Atul Gawande 2016 - Small Gods Terry Pratchett 2018 - The Emperor of All Maladies Siddhartha Mukherjee 2018 - The Three Body Problem Cixin Liu 2018 - Bad Blood John Carreyrou 2018 - Rocket Men Robert Kurson 2019 - The Black Company Glen Cook 2020 - Going Postal Terry Pratchett 2021 - The Last Wish Andrej Sapkowski 2021 - Swords Against Death Fritz Leiber 2021 - The Dying Earth Jack Vance 2022 - </description>
     </item>
     
   </channel>

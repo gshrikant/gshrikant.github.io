@@ -16,8 +16,8 @@
 <meta property="og:description" content="I wanted to write a note on a quick debug session to get my TinyFPGA BX board working with my T450s running Debian Sid (unstable). The board doesn&rsquo;t come with a separate USB controller (typically a FTDI chip or a microcontroller running a USB stack). Instead it loads a bootloader design from its QSPI flash which then presents a CDC class USB device to the host computer which shows up as a /dev/ttyACMn device." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://gshrikant.github.io/debugging-usb-with-tinyfpga-bx/" /><meta property="article:section" content="blog" />
-<meta property="article:published_time" content="2021-07-04T00:00:00&#43;00:00" />
-<meta property="article:modified_time" content="2021-07-04T00:00:00&#43;00:00" /><meta property="og:site_name" content="Shrikant Giridhar" />
+<meta property="article:published_time" content="2021-07-04T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-07-04T00:00:00+00:00" /><meta property="og:site_name" content="Shrikant Giridhar" />
 
 
 
@@ -29,8 +29,8 @@
 
 
 <meta itemprop="name" content="Debugging USB with TinyFPGA BX">
-<meta itemprop="description" content="I wanted to write a note on a quick debug session to get my TinyFPGA BX board working with my T450s running Debian Sid (unstable). The board doesn&rsquo;t come with a separate USB controller (typically a FTDI chip or a microcontroller running a USB stack). Instead it loads a bootloader design from its QSPI flash which then presents a CDC class USB device to the host computer which shows up as a /dev/ttyACMn device."><meta itemprop="datePublished" content="2021-07-04T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2021-07-04T00:00:00&#43;00:00" />
+<meta itemprop="description" content="I wanted to write a note on a quick debug session to get my TinyFPGA BX board working with my T450s running Debian Sid (unstable). The board doesn&rsquo;t come with a separate USB controller (typically a FTDI chip or a microcontroller running a USB stack). Instead it loads a bootloader design from its QSPI flash which then presents a CDC class USB device to the host computer which shows up as a /dev/ttyACMn device."><meta itemprop="datePublished" content="2021-07-04T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2021-07-04T00:00:00+00:00" />
 <meta itemprop="wordCount" content="640">
 <meta itemprop="keywords" content="debugging," />
 <meta name="referrer" content="no-referrer-when-downgrade" />
@@ -265,7 +265,7 @@ that it would fix my bootloader troubles but unfortunately that didn&rsquo;t see
 have made a difference. The bootloader LED still turned off after blinking for
 about 4-5 seconds followed by the device disconnecting with the following log
 messages in <code>dmesg</code>:</p>
-<pre><code>usb 2-1: New USB device found, idVendor=1209, idProduct=2100, bcdDevice= 0.00
+<pre tabindex="0"><code>usb 2-1: New USB device found, idVendor=1209, idProduct=2100, bcdDevice= 0.00
 usb 2-1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
 cdc_acm 2-1:1.0: ttyACM0: USB ACM device
 usb 2-1: USB disconnect, device number 9
@@ -284,7 +284,7 @@ packets transmitted in both cases to try to figure out what went wrong in the
 latter. Although <code>usbmon</code> exposes a text interface via <code>debugfs</code> which captures
 raw transmitted USB packets for each bus I found it was much easier to use
 Wireshark (which I was surprised to find works for USB packet sniffing too!).</p>
-<pre><code>$ grep CONFIG_USB_MON /boot/config-$(uname -r) &amp;&amp; modprobe usbmon
+<pre tabindex="0"><code>$ grep CONFIG_USB_MON /boot/config-$(uname -r) &amp;&amp; modprobe usbmon
 $ sudo wireshark &amp;
 </code></pre><p>At this point we can start sniffing USB packets once we know the bus that our
 device is on which we can figure out by looking the <code>dmesg</code> output. For
