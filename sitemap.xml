@@ -3,19 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gshrikant.github.io/</loc>
-    <lastmod>2022-10-16T14:09:53-04:00</lastmod>
+    <lastmod>2022-11-10T19:49:42-05:00</lastmod>
     <priority>0</priority>
   </url><url>
+    <loc>https://gshrikant.github.io/dungeon-map/</loc>
+    <lastmod>2022-11-10T19:49:42-05:00</lastmod>
+  </url><url>
     <loc>https://gshrikant.github.io/blog/</loc>
-    <lastmod>2022-10-16T14:09:53-04:00</lastmod>
+    <lastmod>2022-11-10T19:49:42-05:00</lastmod>
   </url><url>
     <loc>https://gshrikant.github.io/blog/osr/</loc>
-    <lastmod>2022-10-16T14:09:53-04:00</lastmod>
-  </url><url>
-    <loc>https://gshrikant.github.io/reading-b/x/</loc>
-    <lastmod>2022-10-16T14:09:53-04:00</lastmod>
+    <lastmod>2022-11-10T19:49:42-05:00</lastmod>
   </url><url>
     <loc>https://gshrikant.github.io/blog/rpg/</loc>
+    <lastmod>2022-11-10T19:49:42-05:00</lastmod>
+  </url><url>
+    <loc>https://gshrikant.github.io/reading-b/x/</loc>
     <lastmod>2022-10-16T14:09:53-04:00</lastmod>
   </url><url>
     <loc>https://gshrikant.github.io/blog/debugging/</loc>
