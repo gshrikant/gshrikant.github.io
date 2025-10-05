@@ -1,0 +1,37 @@
+html {
+    font-family: "Source Code Pro", "Inconsolata", monospace;
+    font-size: 18px;
+    line-height: 1.5;
+    text-rendering: optimizeLegibility;
+}
+
+body {
+    margin: 0;
+}
+
+.navbar {
+    margin: 0;
+    padding: 2em;
+    background: #f7f7f7;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#navlinks a {
+    margin-left: 2em;
+    text-decoration: none;
+}
+
+.container {
+    margin-top: 4em;
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    width: 60%;
+}
+
+body img {
+    width: 60%;
+}
