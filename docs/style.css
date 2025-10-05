@@ -17,6 +17,10 @@ body {
     justify-content: space-evenly;
 }
 
+#navtitle a {
+    text-decoration: none;
+}
+
 #navlinks a {
     margin-left: 2em;
     text-decoration: none;
