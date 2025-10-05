@@ -1,6 +1,6 @@
 # Hacky Makefile to build and deploy the site
 SRCDIR ?= src
-OUTDIR ?= site
+OUTDIR ?= docs	# Workaround until GH action is enable 
 TMPLDIR ?= templates
 
 # List of files to be published
