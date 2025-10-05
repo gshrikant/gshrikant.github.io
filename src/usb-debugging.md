@@ -29,7 +29,7 @@ about 4-5 seconds followed by the device disconnecting with the following log
 messages in `dmesg`:
 
 ```
-usb 2-1: New USB device found, idVendor=1209, idProduct=2100, bcdDevice= 0.00
+usb 2-1: New USB device found, idVendor=1209, idProduct=2100, bcdDevice=0.00
 usb 2-1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
 cdc_acm 2-1:1.0: ttyACM0: USB ACM device
 usb 2-1: USB disconnect, device number 9
