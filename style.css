@@ -5,25 +5,20 @@ html {
     text-rendering: optimizeLegibility;
 }
 
-body {
+body, .navbar {
     margin: 0;
 }
 
 .navbar {
-    margin: 0;
     padding: 2em;
     background: #f7f7f7;
     display: flex;
     justify-content: space-evenly;
-}
-
-#navtitle a {
     text-decoration: none;
 }
 
 #navlinks a {
     margin-left: 2em;
-    text-decoration: none;
 }
 
 .container {
@@ -33,10 +28,9 @@ body {
 }
 
 .content {
-    padding-left: 1em;
-    padding-right: 1em;
-    box-sizing: border-box;
+    padding: 0 1em;
     max-width: 700px;
+    box-sizing: border-box;
 }
 
 img {
@@ -45,24 +39,17 @@ img {
     height: auto;
 }
 
-code {
+code, pre code {
     margin: 0;
-    font-size: .85em;
-    background:rgba(0,0,0,.03);
-    border-radius: 3px;
+    padding: 12px 18px;
+    font-size: 0.85em;
     line-height: 24px;
-    padding-left: 1em;
-    padding-right: 1em;
+    background: rgba(0, 0, 0, .03);
+    border-radius: 3px;
     max-width: 700px;
 }
 
 pre code {
-    display:block;
-    white-space:pre-wrap
-}
-pre code {
-    display:block;
-    padding:12px 18px;
-    margin:0;
-    background-color:rgba(0,0,0,.02)
+    white-space: pre-wrap;
+    background-color: rgba(0, 0, 0, .02);
 }
